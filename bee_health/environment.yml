@@ -1,4 +1,4 @@
-name: EDA_cleaning
+name: bee_health
 channels:
   - defaults
   - conda-forge
