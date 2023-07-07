@@ -1,0 +1,12 @@
+name: bee_health
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
+dependencies:
+  - jupyterlab=3.6.3=py311h06a4308_0
+  - matplotlib=3.7.1=py311h06a4308_1
+  - numpy=1.25.0=py311h24aa872_0
+  - numpy-base=1.25.0=py311hbfb1bba_0
+  - pandas=1.5.3=py311hba01205_0
+  - seaborn=0.12.2=py311h06a4308_0
